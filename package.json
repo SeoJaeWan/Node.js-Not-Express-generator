@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-not-express-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/web.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeoJaeWan/Node.js-Not-Express-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeoJaeWan/Node.js-Not-Express-generator/issues"
+  },
+  "homepage": "https://github.com/SeoJaeWan/Node.js-Not-Express-generator#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
